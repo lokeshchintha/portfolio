@@ -27,16 +27,6 @@ function Projects() {
               demoLink="http://todolist.lokeshwebsites.tech/"
             />
           </Col>
-
-          <Col md={6} lg={4} className="project-card">
-            <ProjectCard
-              imgPath={Portfolio}
-              title="Portfolio Website"
-              description="My personal Portfolio Website build with React and Bootstrap. It is fully responsive website which supports both dark and light mode."
-              ghLink="https://github.com/rahuljha4171/Portfolio-Website"
-              demoLink="https://rahuljha.tech/"
-            />
-          </Col>
           <Col md={6} lg={4} className="project-card">
             <ProjectCard
               imgPath={PrivateChat}
@@ -44,6 +34,15 @@ function Projects() {
               description="Created a web-based Notepad website that enable users to securely store their notes, utilizing cached data storage for seamless access.Implemented a user-friendly interface with a 'Compose' button in the navigation bar, facilitating easy note creation."
               ghLink="https://github.com/lokeshchintha/Notepad"
               demoLink="http://notepad.lokeshwebsites.tech/"
+            />
+          </Col>
+                <Col md={6} lg={4} className="project-card">
+            <ProjectCard
+              imgPath={Portfolio}
+              title="Portfolio Website"
+              description="My personal Portfolio Website build with React and Bootstrap. It is fully responsive website which supports both dark and light mode."
+              ghLink="https://github.com/rahuljha4171/Portfolio-Website"
+              demoLink="https://rahuljha.tech/"
             />
           </Col>
         </Row>
