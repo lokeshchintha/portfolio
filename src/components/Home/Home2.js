@@ -36,7 +36,7 @@ function Home2() {
               <br />I always apply my experience in developing products with{" "}
               <i className="primary-header">Node.js</i> and Modern Javascript
               Library and Framework like
-              <i className="primary-header"> Express.js.</i>
+              <i className="primary-header"> React.js.</i>
               <br />
               <br />
               Currently expanding my portfolio by building more{" "}
