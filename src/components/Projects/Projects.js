@@ -33,7 +33,7 @@ function Projects() {
               imgPath={Portfolio}
               title="Portfolio Website"
               description="My personal Portfolio Website build with React and Bootstrap. It is fully responsive website which supports both dark and light mode."
-              ghLink="https://github.com/lokeshchintha/portfolio/"
+              ghLink="https://github.com/lokeshchintha/portfolio"
               demoLink="http://lokeshwebsites.tech/"
             />
           </Col>
