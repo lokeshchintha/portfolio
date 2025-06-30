@@ -16,7 +16,7 @@ const Projects = () => {
       color: "neon-blue",
       gradient: "from-neon-blue/20 to-neon-cyan/20",
       github: "https://github.com/lokeshchintha/portfolio",
-      live: "https://lokeshchintha.github.io/portfolio",
+      live: "https://portfolio-jwz3.onrender.com",
     },
     {
       title: "DSAverse Platform",
