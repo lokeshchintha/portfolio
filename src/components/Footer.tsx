@@ -13,13 +13,13 @@ const Footer = () => {
     },
     {
       name: "LinkedIn", 
-      url: "https://linkedin.com/in/lokeshchintha",
+      url: "https://www.linkedin.com/in/lokeshchintha",
       icon: Linkedin,
       color: "hover:text-neon-violet"
     },
     {
       name: "Email",
-      url: "mailto:lokeshchinth@gmail.com",
+      url: "mailto:lokeshchinta369@gmail.com",
       icon: Mail,
       color: "hover:text-neon-cyan"
     }
