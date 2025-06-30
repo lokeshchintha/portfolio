@@ -18,7 +18,7 @@ const Hero = () => {
     },
     {
       name: "Portfolio",
-      url: "https://lokeshchintha.github.io/portfolio",
+      url: "mailto:lokeshchinta369@gmail.com",
       icon: Mail,
       color: "hover:text-neon-violet"
     },
@@ -31,7 +31,7 @@ const Hero = () => {
     },
     {
       name: "HackerRank",
-      url: "https://hackerrank.com/profile/lokeshchinth",
+      url: "https://hackerrank.com/profile/lokeshchintha",
       icon: Mail,
       color: "hover:text-neon-pink",
       label: "HR"
