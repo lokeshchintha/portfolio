@@ -119,7 +119,7 @@ const Skills = () => {
                       </div>
                       <div className="w-full bg-muted/30 rounded-full h-3 overflow-hidden backdrop-blur-sm border border-border/20">
                         <div
-                          className={`h-full bg-gradient-to-r from-${category.color} to-${category.color}/60 rounded-full transition-all duration-1000 ease-out shadow-sm animate-fade-in`}
+                          className={`h-full bg-gradient-to-r from-neon-blue to-neon-blue/60 rounded-full transition-all duration-1000 ease-out shadow-sm animate-fade-in`}
                           style={{
                             width: `${skill.level}%`,
                             animationDelay: `${(categoryIndex * 0.1) + (skillIndex * 0.1)}s`
