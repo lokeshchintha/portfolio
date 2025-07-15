@@ -49,7 +49,7 @@ const Education = () => {
                 style={{ animationDelay: `${index * 0.2}s` }}
               >
                 {/* Timeline Dot */}
-                <div className={`absolute left-6 top-6 w-4 h-4 bg-${edu.color} rounded-full shadow-${edu.color} animate-glow`}></div>
+                <div className={`absolute left-6 top-6 w-4 h-4 bg-neon-blue rounded-full shadow-neon-blue animate-glow`}></div>
 
                 <div className="card-glass">
                   <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between mb-4">
