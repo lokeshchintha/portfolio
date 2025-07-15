@@ -6,7 +6,7 @@ const Education = () => {
       institution: "Aditya Engineering College",
       duration: "2020 – 2024",
       gpa: "7.5",
-      color: "neon.blue",
+      color: "neon-blue",
       description: "Comprehensive study in computer science fundamentals, software engineering, and emerging technologies."
     },
     {
@@ -14,7 +14,7 @@ const Education = () => {
       institution: "Sri Chaitanya",
       duration: "2018 – 2020",
       gpa: "9.7",
-      color: "neon.violet",
+      color: "neon-violet",
       description: "Mathematics, Physics, and Chemistry with strong analytical and problem-solving foundation."
     },
     {
@@ -22,7 +22,7 @@ const Education = () => {
       institution: "Gayathri Model High School",
       duration: "2017 – 2018",
       gpa: "9.3",
-      color: "neon.cyan",
+      color: "neon-cyan",
       description: "Strong academic foundation with excellent performance across all subjects."
     }
   ];
