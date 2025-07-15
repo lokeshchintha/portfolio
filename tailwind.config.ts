@@ -160,8 +160,10 @@ export default {
 			boxShadow: {
 				'glass': '0 8px 32px 0 rgba(31, 38, 135, 0.37)',
 				'glass-inset': 'inset 0 0 0 1px rgba(255, 255, 255, 0.05)',
-				'neon-blue': '0 0 20px rgba(0, 212, 255, 0.3)',
-				'neon-violet': '0 0 20px rgba(139, 92, 246, 0.3)'
+				'neon-blue': '0 0 20px #00d4ff',
+			        'neon-violet': '0 0 20px #8b5cf6',
+			        'neon-cyan': '0 0 20px #06b6d4',
+			        'neon-pink': '0 0 20px #ec4899',
 			},
 			backdropBlur: {
 				'xs': '2px'
