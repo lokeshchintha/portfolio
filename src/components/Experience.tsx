@@ -69,7 +69,8 @@ const Experience = () => {
                   </div>
                 </div>
               </div>
-              <div className="absolute left-6 top-6 w-4 h-4 bg-neon-violet rounded-full shadow-neon-violet animate-glow"></div>
+              
+              <div className="absolute left-6 top-[calc(100%+3rem)] w-4 h-4 bg-neon-violet rounded-full shadow-neon-violet animate-glow"></div>
               <div className="mt-10 card-glass">
                 <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-4">
                   <div>
