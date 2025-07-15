@@ -1,4 +1,3 @@
-
 const Experience = () => {
   return (
     <section id="experience" className="section-padding">
@@ -15,7 +14,7 @@ const Experience = () => {
             {/* Timeline Line */}
             <div className="absolute left-8 top-0 bottom-0 w-0.5 bg-gradient-to-b from-neon-blue to-neon-violet"></div>
 
-            {/* Experience Item */}
+            {/* SlashMark Experience */}
             <div className="relative pl-20 pb-12 animate-fade-in">
               {/* Timeline Dot */}
               <div className="absolute left-6 top-6 w-4 h-4 bg-neon-blue rounded-full shadow-neon-blue animate-glow"></div>
@@ -69,8 +68,9 @@ const Experience = () => {
                   </div>
                 </div>
               </div>
-              
-              <div className="absolute left-6 top-125 w-4 h-4 bg-neon-violet rounded-full shadow-neon-violet animate-glow"></div>
+
+              {/* Upto Skills Experience */}
+              <div className="absolute left-6 top-[550px] w-4 h-4 bg-neon-violet rounded-full shadow-neon-violet animate-glow"></div>
               <div className="mt-10 card-glass">
                 <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-4">
                   <div>
@@ -121,6 +121,7 @@ const Experience = () => {
                 </div>
               </div>
             </div>
+
           </div>
         </div>
       </div>
