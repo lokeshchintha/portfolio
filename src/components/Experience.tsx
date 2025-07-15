@@ -70,7 +70,7 @@ const Experience = () => {
               </div>
 
               {/* Second Experience Dot */}
-              <div className="absolute left-6 top-150 w-4 h-4 bg-neon-violet rounded-full shadow-neon-violet animate-glow"></div>
+              <div className="absolute left-6 top-[60px] w-4 h-4 bg-neon-violet rounded-full shadow-neon-violet animate-glow"></div>
 
               {/* Second Experience */}
               <div className="mt-10 card-glass">
