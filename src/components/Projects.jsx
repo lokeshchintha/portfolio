@@ -39,7 +39,7 @@ const Projects = () => {
     color: "neon-blue",
     gradient: "from-neon-blue/20 to-neon-cyan/20",
     github: "https://github.com/lokeshchintha/portfolio",
-    live: "https://lokesh-portfolio-five-iota.vercel.app/",
+    live: "https://lokesh-modern-portfolio.vercel.app/",
   },
   {
     title: "Nearest Place Finder",
