@@ -23,7 +23,7 @@ const Projects = () => {
     color: "neon-pink",
     gradient: "from-neon-pink/20 to-neon-orange/20",
     github: "https://github.com/lokeshchintha/AI-Research-Assistant",
-    live: "https://lokesh-research-assistant.vercel.app/",
+    live: "https://lokesh-research-assitant.vercel.app/",
   },
   {
     title: "Portfolio Website",
@@ -38,8 +38,8 @@ const Projects = () => {
     ],
     color: "neon-blue",
     gradient: "from-neon-blue/20 to-neon-cyan/20",
-    github: "https://github.com/lokeshchintha/lokesh-portfolio",
-    live: "https://lokeshchintha.github.io/portfolio/",
+    github: "https://github.com/lokeshchintha/portfolio",
+    live: "https://lokesh-portfolio-five-iota.vercel.app/",
   },
   {
     title: "Nearest Place Finder",
@@ -55,7 +55,7 @@ const Projects = () => {
     color: "neon-cyan",
     gradient: "from-neon-cyan/20 to-neon-blue/20",
     github: "https://github.com/lokeshchintha/nearest-place-finder",
-    live: "https://nearest-location-finder-1-kcd0.onrender.com/",
+    live: "https://nearest-place-finder.vercel.app/",
   },
 ];
 
