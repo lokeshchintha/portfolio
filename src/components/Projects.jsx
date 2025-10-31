@@ -23,7 +23,7 @@ const Projects = () => {
     color: "neon-pink",
     gradient: "from-neon-pink/20 to-neon-orange/20",
     github: "https://github.com/lokeshchintha/AI-Research-Assistant",
-    live: "https://lokesh-research-assitant.vercel.app",
+    live: "https://lokesh-research-assistant.vercel.app",
   },
   {
     title: "Portfolio Website",
