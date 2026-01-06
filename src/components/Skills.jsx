@@ -64,13 +64,7 @@ const Skills = () => {
     skills: [
       { name: "Git/GitHub", level: 90, icon: "🐙" },
       { name: "VS Code", level: 95, icon: "VS" },
-      { name: "Jupyter", level: 85, icon: "📓" },
-      { name: "PyCharm", level: 80, icon: "PC" },
-      { name: "IntelliJ IDEA", level: 75, icon: "IJ" },
-      { name: "Eclipse", level: 70, icon: "🌙" },
-      { name: "Postman", level: 85, icon: "📮" },
-      { name: "Render CLI", level: 75, icon: "⚙️" },
-      { name: "Vercel CLI", level: 75, icon: "▲" }
+      { name: "Postman", level: 85, icon: "📮" }
     ]
   }
 ];
