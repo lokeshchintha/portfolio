@@ -5,7 +5,7 @@ const Education = () => {
       degree: "M.Tech in Computer Science and Engineering",
       institution: "University College of Engineering, Kakinada",
       duration: "2024 – 2026",
-      gpa: "7.56",
+      gpa: "7.73",
       color: "neon-violet",
       description: "Advanced coursework and research in computer science concepts, system design, and modern computational technologies."
     },
