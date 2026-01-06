@@ -10,9 +10,7 @@ const Skills = () => {
       { name: "JavaScript", level: 90, icon: "JS" },
       { name: "Python", level: 85, icon: "🐍" },
       { name: "Java", level: 80, icon: "☕" },
-      { name: "C/C++", level: 75, icon: "C++" },
-      { name: "OpenMP", level: 70, icon: "🔗" },
-      { name: "CUDA", level: 65, icon: "🚀" }
+      { name: "C/C++", level: 75, icon: "C++" }
     ]
   },
   {
@@ -21,11 +19,9 @@ const Skills = () => {
     icon: Settings,
     skills: [
       { name: "React", level: 90, icon: "⚛️" },
-      { name: "Redux", level: 80, icon: "🔄" },
       { name: "Express.js", level: 85, icon: "E" },
       { name: "Bootstrap", level: 85, icon: "B" },
-      { name: "Tailwind CSS", level: 90, icon: "T" },
-      { name: "Flask", level: 75, icon: "F" }
+      { name: "Tailwind CSS", level: 90, icon: "T" }
     ]
   },
   {
@@ -42,15 +38,11 @@ const Skills = () => {
     color: "neon-pink",
     icon: Cpu,
     skills: [
-      { name: "Node.js", level: 85, icon: "N" },
       { name: "HTML/CSS", level: 95, icon: "<>" },
       { name: "EJS", level: 80, icon: "E" },
-      { name: "RESTful APIs", level: 85, icon: "🌐" },
-      { name: "WebSockets", level: 80, icon: "📡" },
       { name: "Google Maps API", level: 80, icon: "🗺️" },
       { name: "Geolocation API", level: 75, icon: "📍" },
-      { name: "OpenAI / Gemini API", level: 85, icon: "🧠" },
-      { name: "Render & Vercel Deployment", level: 80, icon: "🚀" }
+      { name: "OpenAI / Gemini API", level: 85, icon: "🧠" }
     ]
   },
   {
@@ -60,10 +52,8 @@ const Skills = () => {
     skills: [
       { name: "Pandas", level: 80, icon: "🐼" },
       { name: "NumPy", level: 80, icon: "🔢" },
-      { name: "Scikit-learn", level: 75, icon: "🤖" },
       { name: "Matplotlib", level: 75, icon: "📊" },
       { name: "Seaborn", level: 70, icon: "📈" },
-      { name: "Framer Motion", level: 85, icon: "🎞️" },
       { name: "Socket.io", level: 80, icon: "💬" }
     ]
   },
